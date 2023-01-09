@@ -7,8 +7,6 @@ draft: false
 ## Planet Artist in Residence
 
 
-<!-- {{< imgh src="seed0727.png" alt="Geomorph" >}} -->
-
 {{< image src="/images/seed0727.png" alt="Geomorph" >}}
 
 
