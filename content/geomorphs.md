@@ -7,7 +7,9 @@ draft: false
 ## Planet Artist in Residence
 
 
-{{< imgh src="seed0727.png" alt="Geomorph" >}}
+<!-- {{< imgh src="seed0727.png" alt="Geomorph" >}} -->
+
+{{< image src="/images/seed0727.png" alt="Geomorph" >}}
 
 
 GeoMorphs is a generative art project built during a [2021 Artist in Residence at Planet [medium.com]](https://medium.com/planet-stories/meet-planets-first-artist-in-residence-of-2021-holly-grimm-ab227ebdc2dd). It's a generative adversarial network (GAN) trained on [Planet [planet.com]](https://planet.com/) satellite images.
